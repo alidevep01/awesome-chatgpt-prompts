@@ -54,7 +54,6 @@ I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating 
 
 📖 **[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
 
----
 
 ### Using ChatGPT Desktop App
 
@@ -81,6 +80,40 @@ The _unofficial_ ChatGPT desktop application provides a convenient way to access
 ---
 
 # Prompts
+
+---
+## Categorizing GPT Prompts in Notion Based on Your Lifestyle
+Contributed by: [@f](https://github.com/alidevep01)
+Hello ChatGPT! I'm looking to organize a selection of prompts that align with my lifestyle, interests, and daily activities, and I'm using Notion as my tool for storage and organization. Your expertise will help me categorize these titles into meaningful groups that reflect my personal preferences. Here's some insight into me:
+
+Interests: I'm passionate about technology and currently learning Full Stack Development, including JavaScript, React, and MongoDB.
+Likes: My likes include tech blogs, following trends in AI and machine learning, and working on personal coding projects.
+Daily Activities: I work as a Sales Manager but spend a few hours daily practicing Data Structures and Algorithms to reach my goal of becoming a Developer/Engineer at a FAANG company.
+Based on this information, can you assist me in categorizing the following GPT prompt titles into my Notion workspace? Feel free to create subpages, tags, or any structure that aligns with my profile:
+
+Act as an English Translator and Improver
+Act as a Virtual Doctor
+Act as a Senior Frontend Developer
+Generate Text-to-Image Prompts
+Explain Complex Algorithms
+Refactor Code
+Predict the Future
+Act as a JavaScript Console
+Act as a Web Design Consultant
+Act as a Career Counselor
+You can use or modify these broad categories, or create new ones as needed:
+
+Technology & Development
+Business & Management
+Personal Development & Lifestyle
+Your guidance will help me efficiently store these titles in Notion, making them easily accessible and relevant to my passions and daily routine. Please provide detailed instructions on how to categorize and organize these within Notion, so I can have a seamless experience exploring these topics.
+
+![Screenshot_12](https://github.com/f/awesome-chatgpt-prompts/assets/57377203/86025cc2-9efd-4982-a20c-551a6b48b299)
+![Screenshot_4](https://github.com/f/awesome-chatgpt-prompts/assets/57377203/a0201de4-3156-45d9-922b-d6ecadee62b1)
+![Screenshot_11](https://github.com/f/awesome-chatgpt-prompts/assets/57377203/79ed615a-4a20-4e1a-b7ac-f082c41d8a03)
+
+---
+
 
 ## Act as a Linux Terminal
 Contributed by: [@f](https://github.com/f)
